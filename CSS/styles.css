@@ -1,0 +1,18 @@
+           body{
+               background-color: aqua;
+        }
+           
+           
+           hr{ border-style: none;
+            width : 5%; 
+            border-top-style:dotted ;
+            border-width: 10px;
+            border-color: whitesmoke;}
+
+            h1{
+                color: white;
+            }
+
+            h3{
+                color: grey;
+            }
